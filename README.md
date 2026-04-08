@@ -13,4 +13,4 @@
 ## Comunicação
 - O jogo segue o modelo cliente-servidor, com os clientes enviando comandos por via de sockets para o servidor, com este alterando o estado de jogo e retornando a representação visual deste para os clientes. 
 - A informação do jogo é guardada utilizando o ficheiro dados.py, que armazena os dois tipos de operações feitos no jogo, movimentações e interações com objetos. 
-- Fatores a ser monitorizados em runtime incluiem, por exemplo, o mapa (array 2d), com todos os objetos presentes neste, os jogadores e as suas coordenadas e pontuações e os pedidos dos clientes.
+- Fatores a ser monitorizados em runtime incluem, por exemplo, o mapa (array 2d), com todos os objetos presentes neste, os jogadores e as suas coordenadas e pontuações e os pedidos dos clientes.
