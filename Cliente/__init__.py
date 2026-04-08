@@ -1,0 +1,11 @@
+COMMAND_SIZE = 9
+INT_SIZE = 8
+UP       = "w        "
+OBJ_OP   = "obj_obj   "
+LEFT     = "a        "
+DOWN     = "s        "
+RIGHT    = "d        "
+INTERACT = "e        "
+END_OP   = "stop     "
+PORT = 35000
+SERVER_ADDRESS = "localhost"
